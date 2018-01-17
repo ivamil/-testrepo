@@ -17,3 +17,5 @@ edited from desktop
 * Item 2
   * Item 2a
   * Item 2b
+  
+  ![screenshot of github desktop](/images/github-desktop-01.png)
